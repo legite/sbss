@@ -9,7 +9,7 @@ public class wsbss {
 				n ++;
 			}else{
 				int s = 0;
-				for(int i = 0; i < n; i ++){
+				for(int i = 0; i <= n; i ++){
 					s = s + i;
 				}
 				System.out.println(s);
